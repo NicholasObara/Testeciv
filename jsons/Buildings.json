@@ -37,7 +37,7 @@
 		"cost": 75,
 		"food": 2,
 		"production": 1,
-		"uniques": ["[+2 Food] from [Lakes] tiles [in this city]",
+		"uniques": ["[+200 Food] from [Lakes] tiles [in this city]",
 			"Must be next to [Fresh water]"],
 		"hurryCostModifier": 25,
 		"maintenance": 1,
@@ -88,10 +88,10 @@
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"gold": 25},
-		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
-			"[+2 Gold] from [Oil] tiles [in this city]",
-			"[+2 Gold] from [Oasis] tiles [in this city]"],
+		"percentStatBonus": {"gold": 250},
+		"uniques": ["Provides 100 extra copy of each improved luxury resource near this City",
+			"[+2000 Gold] from [Oil] tiles [in this city]",
+			"[+2000 Gold] from [Oasis] tiles [in this city]"],
 		"requiredTech": "Currency"
     },
     {
@@ -155,7 +155,7 @@
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
 		"hurryCostModifier": 15,
-		"percentStatBonus": {"gold": 25},
+		"percentStatBonus": {"gold": 250},
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
     },
@@ -172,3 +172,4 @@
 		"requiredTech": "Economics"
 	}
 ]
+
