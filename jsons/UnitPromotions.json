@@ -2,9 +2,9 @@
 	{
         "name": "[Roirraw] ability",
         "uniques": [
-            "[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
-			"[+33]% Strength <when fighting in [Forest] tiles>",
-			"[+33]% Strength <when fighting in [Jungle] tiles>",
+            "[-100]% Strength for enemy [Military] units in adjacent [All] tiles",
+			"[+333]% Strength <when fighting in [Forest] tiles>",
+			"[+333]% Strength <when fighting in [Jungle] tiles>",
 			"Heals [25] damage if it kills a unit"
         ]
     },
